@@ -1,42 +1,39 @@
-<h2 align="left">
-  Hi there, I'm 白熱! 👋
-</h2>
+## Hi there, I'm 白熱! 👋
 
-###
+<pre align="right">中文 ☑️・English ☑️・日本語 ☑️</pre>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jikkai/jikkai/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jikkai/jikkai/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jikkai/jikkai/output/snake.svg">
-</picture>
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.png">
+    <img width="480" alt="banner" src="assets/light.png">
+  </picture>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://space.bilibili.com/132248" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bilibili&logo=bilibili&label=&color=b94c77&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/asaki.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/__jikkai__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+<div align="center">
+  <samp>
+    <a href="https://asaki.me" target="_blank" rel="noopener noreferrer">
+      Blog
+    </a>
+    ・
+    <a href="https://discordapp.com/users/__jikkai__" target="_blank" rel="noopener noreferrer">
+      Discord
+    </a>
+    ・
+    <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
+      Twitter
+    </a>
+    ・
+    <a href="https://space.bilibili.com/132248" target="_blank" rel="noopener noreferrer">
+      Bilibili
+    </a>
+  </samp>
 </div>
 
-###
+##
+
+I don't like to talk about myself, but here are some things you might find interesting:
+
+- Member of [Univer](https://github.com/dream-num/univer)
+- Ex-maintainer of [Element UI](https://github.com/elemefe/element)
+- GITADORA Drummania player - 金ネ💛
