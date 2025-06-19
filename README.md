@@ -30,6 +30,12 @@
   </samp>
 </div>
 
+<br />
+
+<div align="center">
+  <a href="https://trendshift.io/developers/6445" target="_blank"><img src="https://trendshift.io/api/badge/developers/6445" alt="jikkai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
+
 ##
 
 I don't like to talk about myself, but here are some things you might find interesting:
