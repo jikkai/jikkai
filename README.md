@@ -50,7 +50,7 @@ I thrive in the intersection of technical excellence and user experience — cra
 ### 🧩 Open-Source Contributions
 
 **Core Member of [Univer](https://github.com/dream-num/univer)** — Open-source office suite & collaboration framework
-- Enterprise-grade spreadsheet SDK with 12k+ stars
+- Enterprise-grade spreadsheet SDK with 13k+ stars
 - Adopted by major companies for building custom office solutions
 - Contributing to UI performance, accessibility, community engagement, and developer experience
 
