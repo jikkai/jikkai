@@ -4,18 +4,20 @@
   "version": "0.0.1",
   "scripts": {
     "prepare": "simple-git-hooks",
-    "lint": "oxlint . --deny-warnings",
-    "lint:fix": "oxlint . --fix --deny-warnings"
+    "lint": "oxlint . --deny-warnings --no-error-on-unmatched-pattern",
+    "lint:fix": "oxlint . --fix --deny-warnings --no-error-on-unmatched-pattern"
   },
   "devDependencies": {
-    "lint-staged": "^16.4.0",
-    "oxlint": "^1.57.0",
+    "@amamo/oxlint-config": "^1.0.0",
+    "lint-staged": "^17.3.0",
+    "oxfmt": "^0.61.0",
+    "oxlint": "^1.76.0",
     "simple-git-hooks": "^2.13.1"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
   },
   "lint-staged": {
-    "*.{js,mjs,cjs,jsx,ts,tsx}": "oxlint --fix --deny-warnings"
+    "*.{js,mjs,cjs,jsx,ts,tsx}": "oxlint --fix --deny-warnings --no-error-on-unmatched-pattern"
   }
 }

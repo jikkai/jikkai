@@ -58,6 +58,13 @@ I thrive in the intersection of technical excellence and user experience — cra
 - Maintained widely-used UI framework serving millions of developers
 - Focused on component quality, accessibility, and ecosystem growth
 
+#### Misc
+
+| Project | Description |
+| --- | --- |
+| [verso](https://github.com/jikkai/verso) | A release toolkit for modern workspace-driven projects. |
+| [oxlint-config](https://github.com/jikkai/oxlint-config) | Opinionated Oxlint presets and an Oxc initializer. |
+
 ### 🚀 What Drives Me
 
 - Building **developer tools** and **productivity software** that empower creators

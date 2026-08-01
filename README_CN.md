@@ -58,6 +58,13 @@
 - 维护服务数百万开发者的 UI 框架
 - 专注于组件质量、可访问性和生态系统建设
 
+#### 其他项目
+
+| 项目 | 简介 |
+| --- | --- |
+| [verso](https://github.com/jikkai/verso) | 面向现代 workspace 驱动项目的发布工具集。 |
+| [oxlint-config](https://github.com/jikkai/oxlint-config) | 一套约定优于配置的 Oxlint 预设与 Oxc 初始化工具。 |
+
 ### 🚀 驱动力
 
 - 构建**开发者工具**和**生产力软件**，赋能创作者
