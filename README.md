@@ -50,7 +50,7 @@ I thrive in the intersection of technical excellence and user experience — cra
 ### 🧩 Open-Source Contributions
 
 **Core Member of [Univer](https://github.com/dream-num/univer)** — Open-source office suite & collaboration framework
-- Enterprise-grade spreadsheet SDK with 13k+ stars
+- Enterprise-grade spreadsheet SDK with 14k+ stars
 - Adopted by major companies for building custom office solutions
 - Contributing to UI performance, accessibility, community engagement, and developer experience
 
@@ -62,8 +62,11 @@ I thrive in the intersection of technical excellence and user experience — cra
 
 | Project | Description |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | A release toolkit for modern workspace-driven projects. |
+| [verso](https://github.com/jikkai/verso) | A release toolkit for modern monorepo projects. |
 | [oxlint-config](https://github.com/jikkai/oxlint-config) | Opinionated Oxlint presets and an Oxc initializer. |
+| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | A native macOS menu bar app for monitoring website health and 90-day uptime history. |
+| [mdx](https://github.com/jikkai/mdx) | A native MDX content compiler with Vite and Next adapters. |
+| [doctrine](https://github.com/jikkai/doctrine) | A static React documentation site generator for MDX. |
 
 ### 🚀 What Drives Me
 

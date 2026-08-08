@@ -50,7 +50,7 @@
 ### 🧩 开源贡献
 
 **[Univer](https://github.com/dream-num/univer) 核心成员** — 开源办公套件与协作框架
-- 企业级电子表格 SDK，拥有 12k+ stars
+- 企业级电子表格 SDK，拥有 14k+ stars
 - 被多家大型企业采用，用于构建定制化办公解决方案
 - 参与 UI 性能优化、可访问性、社区建设和开发者体验提升
 
@@ -62,8 +62,11 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | 面向现代 workspace 驱动项目的发布工具集。 |
+| [verso](https://github.com/jikkai/verso) | 面向现代 monorepo 驱动项目的发布工具集。 |
 | [oxlint-config](https://github.com/jikkai/oxlint-config) | 一套约定优于配置的 Oxlint 预设与 Oxc 初始化工具。 |
+| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | 原生 macOS 菜单栏应用，用于监控网站健康状态和 90 天可用性历史。 |
+| [mdx](https://github.com/jikkai/mdx) | 支持 Vite 与 Next 适配器的原生 MDX 内容编译器。 |
+| [doctrine](https://github.com/jikkai/doctrine) | 将 MDX 目录构建为静态 React 文档站点的工具。 |
 
 ### 🚀 驱动力
 

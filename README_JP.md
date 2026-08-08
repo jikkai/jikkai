@@ -50,7 +50,7 @@
 ### 🧩 オープンソース貢献
 
 **[Univer](https://github.com/dream-num/univer) コアメンバー** — オープンソースオフィススイート＆コラボレーションフレームワーク
-- 12k+ スターを持つエンタープライズグレードのスプレッドシート SDK
+- 14k+ スターを持つエンタープライズグレードのスプレッドシート SDK
 - 大手企業にカスタムオフィスソリューション構築のために採用
 - UI パフォーマンス、アクセシビリティ、コミュニティエンゲージメント、開発者体験の向上に貢献
 
@@ -62,8 +62,11 @@
 
 | プロジェクト | 説明 |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | モダンな workspace 駆動型プロジェクト向けのリリースツールキット。 |
+| [verso](https://github.com/jikkai/verso) | モダンな monorepo 駆動型プロジェクト向けのリリースツールキット。 |
 | [oxlint-config](https://github.com/jikkai/oxlint-config) | 独断的な Oxlint プリセットと Oxc 初期化ツール。 |
+| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | ウェブサイトのヘルスチェックと 90 日間の稼働履歴確認に対応したネイティブ macOS メニューバーアプリ。 |
+| [mdx](https://github.com/jikkai/mdx) | Vite と Next アダプターを備えたネイティブ MDX コンテンツコンパイラ。 |
+| [doctrine](https://github.com/jikkai/doctrine) | MDX ディレクトリから静的な React ドキュメントサイトを構築するツール。 |
 
 ### 🚀 モチベーション
 
