@@ -1,45 +1,80 @@
-<p align="center">
-  <img src="assets/profile-pixels.png" alt="JIKKAI in retro bitmap lettering, dissolving into a trail of pixel particles" width="960" />
-</p>
+## Hi there, I'm 白熱! 👋
 
-<p align="center"><samp>English · <a href="README_CN.md">中文</a> · <a href="README_JP.md">日本語</a></samp></p>
+<pre align="right"><a href="README_CN.md">中文</a> ・ English ・ <a href="README_JP.md">日本語</a></pre>
 
-<p align="center">I'm <strong>白熱</strong>, also known as <strong>jikkai</strong>.<br />I build Office software, developer tools, and small apps for everyday use.</p>
+<div align="center">
+  <img width="960" alt="JIKKAI in retro bitmap lettering, dissolving into a trail of pixel particles" src="assets/profile-pixels.png">
+</div>
 
-<pre align="center">TypeScript · Rust
-UI performance
-Accessibility
-Developer experience</pre>
+<div align="center">
+  <samp>
+    <a href="https://asaki.me" target="_blank" rel="noopener noreferrer">
+      Blog
+    </a>
+    ・
+    Discord: <code>__jikkai__</code>
+    ・
+    <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
+      X
+    </a>
+    ・
+    <a href="https://space.bilibili.com/132248" target="_blank" rel="noopener noreferrer">
+      Bilibili
+    </a>
+  </samp>
+</div>
 
-<p align="center"><samp><a href="https://asaki.me">Blog</a> · <a href="https://x.com/yoruhato">X</a> · <a href="https://space.bilibili.com/132248">Bilibili</a> · <a href="https://weibo.com/u/2823204294">Weibo</a></samp></p>
+<br />
 
-<h2 align="center"><samp>░▒ WORK ▒░</samp></h2>
+<div align="center">
+  <a href="https://trendshift.io/developers/6445" target="_blank"><img src="https://trendshift.io/api/badge/developers/6445" alt="jikkai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
-**[Univer](https://github.com/dream-num/univer) · Maintainer at [DreamNum](https://github.com/dream-num)**
+---
 
-An Office SDK for people and AI agents, covering spreadsheets, documents, presentations, relational tables, canvases, and PDFs. I work on UI, performance, accessibility, and the developer experience around it.
+I'm a full-stack developer passionate about building elegant, high-performance web applications and developer tools.
+I thrive in the intersection of technical excellence and user experience — crafting tools that make developers more productive and creative.
 
-**[Element UI](https://github.com/ElemeFE/element) · Former maintainer**
+<h3 align="center"><samp>░▒ Technical Focus ▒░</samp></h3>
 
-Previously worked on the Vue 2 component library, with a focus on component quality, accessibility, and its ecosystem.
+**Core Stack:** TypeScript / JavaScript / Rust, React / Vue / Svelte / Solid.js, Next.js / Nuxt.js<br />
+**Specialties:** Component libraries, Frontend engineering, Performance optimization, Developer experience<br />
+**Tools & Infrastructure:** Modern web tooling, CI/CD, Open-source maintenance
 
-<h2 align="center"><samp>░▒ PROJECTS ▒░</samp></h2>
+<h3 align="center"><samp>░▒ Open-Source Contributions ▒░</samp></h3>
 
-| Project | What it does |
-| :--- | :--- |
-| [**Verso**](https://github.com/jikkai/verso) | Release tooling for JavaScript workspaces and HarmonyOS apps, with optional Cargo version updates. |
-| [**oxlint-config**](https://github.com/jikkai/oxlint-config) | Composable Oxlint presets, an Oxc initializer, and a browsable rule explorer. |
-| [**mdx**](https://github.com/jikkai/mdx) | A Rust-powered MDX compiler with schema validation, code highlighting, and Vite / Next.js adapters. |
-| [**Doctrine**](https://github.com/jikkai/doctrine) | Turn an MDX directory into a static React documentation site with search and localized navigation. |
-| [**AI Tab**](https://github.com/jikkai/ai-tab) | Organize Chrome tabs and bookmarks with your own AI service, with review and undo. |
-| [**Uptime Monitor**](https://github.com/jikkai/uptime-monitor) | A native macOS menu bar app for website health checks and uptime history. |
-| [**Switch WeRead**](https://github.com/jikkai/switch-weread) | An unofficial native WeRead reader for Nintendo Switch homebrew. Technical preview. |
+**Maintainer of [Univer](https://github.com/dream-num/univer)** — Office SDK for people and AI agents, built on an open-source core
 
-<h2 align="center"><samp>░▒ OFF THE CLOCK ▒░</samp></h2>
+- Spreadsheets, documents, presentations, relational tables, canvases, and PDFs
+- Adopted by major companies for building custom office solutions
+- Contributing to UI performance, accessibility, community engagement, and developer experience
 
-<pre align="center">GITADORA DrumMania · 金ネ
-あさき · lyrics · live music</pre>
+**Ex-Maintainer of [Element UI](https://github.com/elemefe/element)** — A Vue 2 UI component library
 
-I occasionally translate lyrics and write about development, live music, and everyday life on [Setup()](https://asaki.me).
+- Maintained a widely-used Vue 2 UI framework
+- Focused on component quality, accessibility, and ecosystem growth
 
-Some of that turns into little web apps — a [game score recorder](https://gsr.asaki.me), a [DTX chart player](https://dtx.asaki.me), and a [Pokopia map planner](https://pokopia.asaki.me).
+#### Misc
+
+| Project | Description |
+| --- | --- |
+| [verso](https://github.com/jikkai/verso) | Release tooling for JavaScript workspaces and HarmonyOS apps, with optional Cargo version updates. |
+| [oxlint-config](https://github.com/jikkai/oxlint-config) | Opinionated Oxlint presets and an Oxc initializer. |
+| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | A native macOS menu bar app for monitoring website health and 90-day uptime history. |
+| [mdx](https://github.com/jikkai/mdx) | A native MDX content compiler with Vite and Next adapters. |
+| [doctrine](https://github.com/jikkai/doctrine) | A static React documentation site generator for MDX. |
+
+<h3 align="center"><samp>░▒ What Drives Me ▒░</samp></h3>
+
+- Building **developer tools** and **productivity software** that empower creators
+- Merging **elegant architecture** with **delightful UX** to create seamless experiences
+- Contributing to **open-source communities** and helping developers worldwide
+- Exploring the intersection of **web technologies** and **creative expression**
+
+<h3 align="center"><samp>░▒ Beyond Code ▒░</samp></h3>
+
+GITADORA Drummania player - 金ネ💛
+
+<h3 align="center"><samp>░▒ Let's Connect ▒░</samp></h3>
+
+Feel free to reach out through any of the platforms above, or check out my [blog](https://asaki.me) for technical writings and thoughts on software development.

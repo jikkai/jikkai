@@ -1,45 +1,80 @@
-<p align="center">
-  <img src="assets/profile-pixels.png" alt="レトロなビットマップ文字 JIKKAI がピクセルの粒子へと広がるバナー" width="960" />
-</p>
+## こんにちは、白熱です！👋
 
-<p align="center"><samp><a href="README.md">English</a> · <a href="README_CN.md">中文</a> · 日本語</samp></p>
+<pre align="right"><a href="README_CN.md">中文</a> ・ <a href="README.md">English</a> ・ 日本語</pre>
 
-<p align="center"><strong>白熱</strong>です。オープンソースでは <strong>jikkai</strong> という名前も使っています。<br />オフィスソフトウェアや開発者向けツール、日常で使う小さなアプリを作っています。</p>
+<div align="center">
+  <img width="960" alt="レトロなビットマップ文字 JIKKAI がピクセルの粒子へと広がるバナー" src="assets/profile-pixels.png">
+</div>
 
-<pre align="center">TypeScript · Rust
-UI パフォーマンス
-アクセシビリティ
-開発者体験</pre>
+<div align="center">
+  <samp>
+    <a href="https://asaki.me" target="_blank" rel="noopener noreferrer">
+      ブログ
+    </a>
+    ・
+    Discord: <code>__jikkai__</code>
+    ・
+    <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
+      X
+    </a>
+    ・
+    <a href="https://space.bilibili.com/132248" target="_blank" rel="noopener noreferrer">
+      Bilibili
+    </a>
+  </samp>
+</div>
 
-<p align="center"><samp><a href="https://asaki.me">ブログ</a> · <a href="https://x.com/yoruhato">X</a> · <a href="https://space.bilibili.com/132248">Bilibili</a> · <a href="https://weibo.com/u/2823204294">Weibo</a></samp></p>
+<br />
 
-<h2 align="center"><samp>░▒ 仕事 ▒░</samp></h2>
+<div align="center">
+  <a href="https://trendshift.io/developers/6445" target="_blank"><img src="https://trendshift.io/api/badge/developers/6445" alt="jikkai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
-**[Univer](https://github.com/dream-num/univer) · [DreamNum](https://github.com/dream-num) でメンテナーとして参加**
+---
 
-人と AI エージェントのための Office SDK。スプレッドシート、ドキュメント、プレゼンテーション、リレーショナルテーブル、キャンバス、PDF を扱います。UI、パフォーマンス、アクセシビリティ、開発者体験に取り組んでいます。
+エレガントで高性能な Web アプリケーションと開発者ツールの構築に情熱を注ぐフルスタック開発者です。
+技術的卓越性とユーザー体験の交差点で活動し、開発者の生産性と創造性を高めるツールを作り出しています。
 
-**[Element UI](https://github.com/ElemeFE/element) · 元メンテナー**
+<h3 align="center"><samp>░▒ 技術スタック ▒░</samp></h3>
 
-以前は Vue 2 向けのコンポーネントライブラリをメンテナンスし、コンポーネントの品質、アクセシビリティ、周辺エコシステムに携わっていました。
+**コア技術：** TypeScript / JavaScript / Rust, React / Vue / Svelte / Solid.js, Next.js / Nuxt.js<br />
+**専門分野：** コンポーネントライブラリ、フロントエンドエンジニアリング、パフォーマンス最適化、開発者体験<br />
+**ツール・インフラ：** モダン Web ツールチェーン、CI/CD、オープンソースメンテナンス
 
-<h2 align="center"><samp>░▒ 個人開発 ▒░</samp></h2>
+<h3 align="center"><samp>░▒ オープンソース貢献 ▒░</samp></h3>
 
-| プロジェクト | できること |
-| :--- | :--- |
-| [**Verso**](https://github.com/jikkai/verso) | JavaScript ワークスペースと HarmonyOS アプリ向けのリリースツール。Cargo パッケージのバージョン更新にも対応。 |
-| [**oxlint-config**](https://github.com/jikkai/oxlint-config) | 組み合わせ可能な Oxlint プリセット、Oxc 初期化ツール、ルールエクスプローラー。 |
-| [**mdx**](https://github.com/jikkai/mdx) | Rust 製の MDX コンパイラ。スキーマ検証、コードハイライト、Vite / Next.js アダプターを提供。 |
-| [**Doctrine**](https://github.com/jikkai/doctrine) | MDX ディレクトリから、検索と多言語ナビゲーションを備えた静的 React ドキュメントサイトを生成。 |
-| [**AI Tab**](https://github.com/jikkai/ai-tab) | 自分の AI サービスで Chrome のタブやブックマークを整理。プレビューと取り消しに対応。 |
-| [**Uptime Monitor**](https://github.com/jikkai/uptime-monitor) | サイトの状態と稼働履歴を確認できる、ネイティブ macOS メニューバーアプリ。 |
-| [**Switch WeRead**](https://github.com/jikkai/switch-weread) | Nintendo Switch homebrew 向けの非公式 WeRead ネイティブクライアント。技術プレビュー。 |
+**[Univer](https://github.com/dream-num/univer) メンテナー** — オープンソースのコアを基盤とする、人と AI エージェントのための Office SDK
 
-<h2 align="center"><samp>░▒ コードの外 ▒░</samp></h2>
+- スプレッドシート、ドキュメント、プレゼンテーション、リレーショナルテーブル、キャンバス、PDF に対応
+- 大手企業にカスタムオフィスソリューション構築のために採用
+- UI パフォーマンス、アクセシビリティ、コミュニティエンゲージメント、開発者体験の向上に貢献
 
-<pre align="center">GITADORA DrumMania · 金ネ
-あさき · 歌詞 · ライブ</pre>
+**[Element UI](https://github.com/elemefe/element) 元メンテナー** — Vue 2 向けの UI コンポーネントライブラリ
 
-ときどき歌詞を訳したり、[Setup()](https://asaki.me) に開発、ライブ、日々のことを書いたりしています。
+- 広く利用されている Vue 2 UI フレームワークをメンテナンス
+- コンポーネント品質、アクセシビリティ、エコシステムの成長に注力
 
-趣味から作った小さな Web アプリもあります。[ゲームのスコア記録](https://gsr.asaki.me)、[DTX 譜面プレイヤー](https://dtx.asaki.me)、[Pokopia マッププランナー](https://pokopia.asaki.me)など。
+#### その他のプロジェクト
+
+| プロジェクト | 説明 |
+| --- | --- |
+| [verso](https://github.com/jikkai/verso) | JavaScript ワークスペースと HarmonyOS アプリ向けのリリースツール。Cargo パッケージのバージョン更新にも対応。 |
+| [oxlint-config](https://github.com/jikkai/oxlint-config) | 独断的な Oxlint プリセットと Oxc 初期化ツール。 |
+| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | ウェブサイトのヘルスチェックと 90 日間の稼働履歴確認に対応したネイティブ macOS メニューバーアプリ。 |
+| [mdx](https://github.com/jikkai/mdx) | Vite と Next アダプターを備えたネイティブ MDX コンテンツコンパイラ。 |
+| [doctrine](https://github.com/jikkai/doctrine) | MDX ディレクトリから静的な React ドキュメントサイトを構築するツール。 |
+
+<h3 align="center"><samp>░▒ モチベーション ▒░</samp></h3>
+
+- クリエイターを支援する**開発者ツール**と**生産性ソフトウェア**の構築
+- **エレガントなアーキテクチャ**と**心地よい UX** を融合し、シームレスな体験を創出
+- **オープンソースコミュニティ**への貢献と世界中の開発者支援
+- **Web 技術**と**創造的表現**の交差点を探求
+
+<h3 align="center"><samp>░▒ コードの外で ▒░</samp></h3>
+
+GITADORA Drummania プレイヤー - 金ネ💛
+
+<h3 align="center"><samp>░▒ 連絡先 ▒░</samp></h3>
+
+上記のプラットフォームからお気軽にご連絡ください。技術記事やソフトウェア開発に関する考察は[ブログ](https://asaki.me)でご覧いただけます。
