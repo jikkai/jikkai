@@ -66,7 +66,9 @@
 
 <h3 align="center"><samp>░▒ 开源贡献 ▒░</samp></h3>
 
-#### [Univer](https://github.com/dream-num/univer) [![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars)](https://github.com/dream-num/univer/stargazers)
+#### [Univer](https://github.com/dream-num/univer)
+
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/dream-num/univer/stargazers)
 
 **维护者** — 面向人与 AI Agent 的 Office SDK，基于开源核心构建
 
@@ -74,7 +76,9 @@
 - 企业可以用它构建自己的办公应用
 - 主要参与界面性能优化、无障碍支持、开发者体验和社区维护
 
-#### [Element UI](https://github.com/elemefe/element) [![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars)](https://github.com/elemefe/element/stargazers)
+#### [Element UI](https://github.com/elemefe/element)
+
+[![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/elemefe/element/stargazers)
 
 **前维护者** — Vue 2 UI 组件库
 

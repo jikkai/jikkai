@@ -66,7 +66,9 @@ I thrive in the intersection of technical excellence and user experience — cra
 
 <h3 align="center"><samp>░▒ Open-Source Contributions ▒░</samp></h3>
 
-#### [Univer](https://github.com/dream-num/univer) [![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars)](https://github.com/dream-num/univer/stargazers)
+#### [Univer](https://github.com/dream-num/univer)
+
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/dream-num/univer/stargazers)
 
 **Maintainer** — Office SDK for people and AI agents, built on an open-source core
 
@@ -74,7 +76,9 @@ I thrive in the intersection of technical excellence and user experience — cra
 - Adopted by major companies for building custom office solutions
 - Contributing to UI performance, accessibility, community engagement, and developer experience
 
-#### [Element UI](https://github.com/elemefe/element) [![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars)](https://github.com/elemefe/element/stargazers)
+#### [Element UI](https://github.com/elemefe/element)
+
+[![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/elemefe/element/stargazers)
 
 **Ex-Maintainer** — A Vue 2 UI component library
 
