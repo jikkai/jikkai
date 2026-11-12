@@ -1,4 +1,4 @@
-## こんにちは、白熱です！👋
+<h2 align="center"><samp>こんにちは、白熱です！👋</samp></h2>
 
 <pre align="right"><a href="README_CN.md">中文</a> ・ <a href="README.md">English</a> ・ 日本語</pre>
 
@@ -12,7 +12,9 @@
       ブログ
     </a>
     ・
-    Discord: <code>__jikkai__</code>
+    <a href="https://discordapp.com/users/__jikkai__" target="_blank" rel="noopener noreferrer">
+      Discord
+    </a>
     ・
     <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
       X
@@ -37,13 +39,26 @@
 
 <h3 align="center"><samp>░▒ 技術スタック ▒░</samp></h3>
 
-**コア技術：** TypeScript / JavaScript / Rust, React / Vue / Svelte / Solid.js, Next.js / Nuxt.js<br />
+```text
+stack/
+├─ languages
+│  TypeScript · JavaScript
+│  Rust
+├─ ui
+│  React · Vue
+│  Svelte · Solid.js
+└─ frameworks
+   Next.js · Nuxt.js
+```
+
 **専門分野：** コンポーネントライブラリ、フロントエンドエンジニアリング、パフォーマンス最適化、開発者体験<br />
 **ツール・インフラ：** モダン Web ツールチェーン、CI/CD、オープンソースメンテナンス
 
 <h3 align="center"><samp>░▒ オープンソース貢献 ▒░</samp></h3>
 
 **[Univer](https://github.com/dream-num/univer) メンテナー** — オープンソースのコアを基盤とする、人と AI エージェントのための Office SDK
+
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=Univer)](https://github.com/dream-num/univer/stargazers)
 
 - スプレッドシート、ドキュメント、プレゼンテーション、リレーショナルテーブル、キャンバス、PDF に対応
 - 大手企業にカスタムオフィスソリューション構築のために採用
@@ -54,15 +69,28 @@
 - 広く利用されている Vue 2 UI フレームワークをメンテナンス
 - コンポーネント品質、アクセシビリティ、エコシステムの成長に注力
 
-#### その他のプロジェクト
+#### <samp>個人プロジェクト</samp>
 
 | プロジェクト | 説明 |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | JavaScript ワークスペースと HarmonyOS アプリ向けのリリースツール。Cargo パッケージのバージョン更新にも対応。 |
-| [oxlint-config](https://github.com/jikkai/oxlint-config) | 独断的な Oxlint プリセットと Oxc 初期化ツール。 |
-| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | ウェブサイトのヘルスチェックと 90 日間の稼働履歴確認に対応したネイティブ macOS メニューバーアプリ。 |
-| [mdx](https://github.com/jikkai/mdx) | Vite と Next アダプターを備えたネイティブ MDX コンテンツコンパイラ。 |
-| [doctrine](https://github.com/jikkai/doctrine) | MDX ディレクトリから静的な React ドキュメントサイトを構築するツール。 |
+| [`verso`](https://github.com/jikkai/verso) | JavaScript ワークスペースと HarmonyOS アプリのリリースを一括管理。変更履歴の生成と Cargo のバージョン更新にも対応。 |
+| [`oxlint-config`](https://github.com/jikkai/oxlint-config)<br />[![npm @amamo/oxlint-config](https://img.shields.io/npm/v/%40amamo%2Foxlint-config?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/oxlint-config) | 組み合わせ可能な Oxlint プリセット、Oxc 初期化ツール、英中対応のルールエクスプローラー。 |
+| [`mdx`](https://github.com/jikkai/mdx)<br />[![npm @amamo/mdx](https://img.shields.io/npm/v/%40amamo%2Fmdx?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/mdx) | Rust 製の MDX コンパイラー。型付きコンテンツ、スキーマ検証、Vite / Next.js アダプターを提供。 |
+| [`doctrine`](https://github.com/jikkai/doctrine)<br />[![npm @amamo/doctrine](https://img.shields.io/npm/v/%40amamo%2Fdoctrine?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/doctrine) | MDX から React ドキュメントサイトを生成。HTML の事前レンダリング、Pagefind 検索、多言語ナビゲーションに対応。 |
+| [`ai-tab`](https://github.com/jikkai/ai-tab) | 自分の AI サービスで Chrome のタブとブックマークを整理する拡張機能。適用前の確認・編集と取り消しに対応。 |
+| [`switch-weread`](https://github.com/jikkai/switch-weread) | Nintendo Switch homebrew 向けの非公式ネイティブ微信読書クライアント。C++ / SDL2 製、技術プレビュー段階。 |
+| [`uptime-monitor`](https://github.com/jikkai/uptime-monitor) | ウェブサイトを監視するネイティブ macOS メニューバーアプリ。直近 90 日の稼働履歴をローカルに保存。 |
+| [`sync-gitee`](https://github.com/jikkai/sync-gitee) | 指定した GitHub リポジトリのブランチとタグを Gitee に同期する GitHub Action。 |
+
+<details>
+<summary>AI Tab · プレビュー</summary>
+<br />
+<p align="center">
+  <a href="https://github.com/jikkai/ai-tab">
+    <img src="https://raw.githubusercontent.com/jikkai/ai-tab/main/docs/images/preview-en.png" alt="Chrome で AI Tab のタブグループ候補を確認" width="320" />
+  </a>
+</p>
+</details>
 
 <h3 align="center"><samp>░▒ モチベーション ▒░</samp></h3>
 
@@ -73,7 +101,8 @@
 
 <h3 align="center"><samp>░▒ コードの外で ▒░</samp></h3>
 
-GITADORA Drummania プレイヤー - 金ネ💛
+<pre align="center">GITADORA Drummania プレイヤー
+金ネ 💛</pre>
 
 <h3 align="center"><samp>░▒ 連絡先 ▒░</samp></h3>
 

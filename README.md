@@ -1,4 +1,4 @@
-## Hi there, I'm 白熱! 👋
+<h2 align="center"><samp>Hi there, I'm 白熱! 👋</samp></h2>
 
 <pre align="right"><a href="README_CN.md">中文</a> ・ English ・ <a href="README_JP.md">日本語</a></pre>
 
@@ -12,7 +12,9 @@
       Blog
     </a>
     ・
-    Discord: <code>__jikkai__</code>
+    <a href="https://discordapp.com/users/__jikkai__" target="_blank" rel="noopener noreferrer">
+      Discord
+    </a>
     ・
     <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
       X
@@ -37,13 +39,26 @@ I thrive in the intersection of technical excellence and user experience — cra
 
 <h3 align="center"><samp>░▒ Technical Focus ▒░</samp></h3>
 
-**Core Stack:** TypeScript / JavaScript / Rust, React / Vue / Svelte / Solid.js, Next.js / Nuxt.js<br />
+```text
+stack/
+├─ languages
+│  TypeScript · JavaScript
+│  Rust
+├─ ui
+│  React · Vue
+│  Svelte · Solid.js
+└─ frameworks
+   Next.js · Nuxt.js
+```
+
 **Specialties:** Component libraries, Frontend engineering, Performance optimization, Developer experience<br />
 **Tools & Infrastructure:** Modern web tooling, CI/CD, Open-source maintenance
 
 <h3 align="center"><samp>░▒ Open-Source Contributions ▒░</samp></h3>
 
 **Maintainer of [Univer](https://github.com/dream-num/univer)** — Office SDK for people and AI agents, built on an open-source core
+
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=Univer)](https://github.com/dream-num/univer/stargazers)
 
 - Spreadsheets, documents, presentations, relational tables, canvases, and PDFs
 - Adopted by major companies for building custom office solutions
@@ -54,15 +69,28 @@ I thrive in the intersection of technical excellence and user experience — cra
 - Maintained a widely-used Vue 2 UI framework
 - Focused on component quality, accessibility, and ecosystem growth
 
-#### Misc
+#### <samp>Personal Projects</samp>
 
 | Project | Description |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | Release tooling for JavaScript workspaces and HarmonyOS apps, with optional Cargo version updates. |
-| [oxlint-config](https://github.com/jikkai/oxlint-config) | Opinionated Oxlint presets and an Oxc initializer. |
-| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | A native macOS menu bar app for monitoring website health and 90-day uptime history. |
-| [mdx](https://github.com/jikkai/mdx) | A native MDX content compiler with Vite and Next adapters. |
-| [doctrine](https://github.com/jikkai/doctrine) | A static React documentation site generator for MDX. |
+| [`verso`](https://github.com/jikkai/verso) | Coordinated releases for JavaScript workspaces and HarmonyOS apps, with changelogs and optional Cargo version updates. |
+| [`oxlint-config`](https://github.com/jikkai/oxlint-config)<br />[![npm @amamo/oxlint-config](https://img.shields.io/npm/v/%40amamo%2Foxlint-config?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/oxlint-config) | Composable Oxlint presets, an Oxc initializer, and a bilingual rule explorer. |
+| [`mdx`](https://github.com/jikkai/mdx)<br />[![npm @amamo/mdx](https://img.shields.io/npm/v/%40amamo%2Fmdx?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/mdx) | Rust-powered MDX compiler with typed collections, schema validation, and Vite / Next.js adapters. |
+| [`doctrine`](https://github.com/jikkai/doctrine)<br />[![npm @amamo/doctrine](https://img.shields.io/npm/v/%40amamo%2Fdoctrine?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/doctrine) | MDX-to-React documentation sites with prerendered HTML, Pagefind search, and localized navigation. |
+| [`ai-tab`](https://github.com/jikkai/ai-tab) | Chrome extension for organizing tabs and bookmarks with your own AI service. Preview, edit, and undo changes. |
+| [`switch-weread`](https://github.com/jikkai/switch-weread) | Unofficial native WeRead client for Nintendo Switch homebrew, built with C++ / SDL2. Technical preview. |
+| [`uptime-monitor`](https://github.com/jikkai/uptime-monitor) | Native macOS menu bar app for website monitoring, with 90-day uptime history stored locally. |
+| [`sync-gitee`](https://github.com/jikkai/sync-gitee) | GitHub Action that mirrors selected repository branches and tags to Gitee. |
+
+<details>
+<summary>AI Tab · preview</summary>
+<br />
+<p align="center">
+  <a href="https://github.com/jikkai/ai-tab">
+    <img src="https://raw.githubusercontent.com/jikkai/ai-tab/main/docs/images/preview-en.png" alt="Previewing AI Tab grouping suggestions in Chrome" width="320" />
+  </a>
+</p>
+</details>
 
 <h3 align="center"><samp>░▒ What Drives Me ▒░</samp></h3>
 
@@ -73,7 +101,8 @@ I thrive in the intersection of technical excellence and user experience — cra
 
 <h3 align="center"><samp>░▒ Beyond Code ▒░</samp></h3>
 
-GITADORA Drummania player - 金ネ💛
+<pre align="center">GITADORA Drummania player
+金ネ 💛</pre>
 
 <h3 align="center"><samp>░▒ Let's Connect ▒░</samp></h3>
 

@@ -1,4 +1,4 @@
-## 你好，我是白熱！👋
+<h2 align="center"><samp>你好，我是白熱！👋</samp></h2>
 
 <pre align="right">中文 ・ <a href="README.md">English</a> ・ <a href="README_JP.md">日本語</a></pre>
 
@@ -12,7 +12,9 @@
       博客
     </a>
     ・
-    Discord: <code>__jikkai__</code>
+    <a href="https://discordapp.com/users/__jikkai__" target="_blank" rel="noopener noreferrer">
+      Discord
+    </a>
     ・
     <a href="https://x.com/yoruhato" target="_blank" rel="noopener noreferrer">
       X
@@ -32,49 +34,76 @@
 
 ---
 
-我是一名全栈开发者，热衷于构建优雅、高性能的 Web 应用和开发者工具。
-我专注于技术卓越与用户体验的交汇点——打造能让开发者更高效、更具创造力的工具。
+我是一名全栈开发者，主要做 Web 应用和开发者工具。
+喜欢把性能、工程细节和使用体验一起打磨好，让工具用起来顺手，开发过程也更轻松。
 
 <h3 align="center"><samp>░▒ 技术方向 ▒░</samp></h3>
 
-**核心技术栈：** TypeScript / JavaScript / Rust, React / Vue / Svelte / Solid.js, Next.js / Nuxt.js<br />
-**专长领域：** 组件库、前端工程、性能优化、开发者体验<br />
-**工具与基础设施：** 现代 Web 工具链、CI/CD、开源项目维护
+```text
+stack/
+├─ languages
+│  TypeScript · JavaScript
+│  Rust
+├─ ui
+│  React · Vue
+│  Svelte · Solid.js
+└─ frameworks
+   Next.js · Nuxt.js
+```
+
+**关注的方向：** 组件库、前端工程、性能优化、开发者体验<br />
+**日常工程实践：** Web 工具链、CI/CD、开源项目维护
 
 <h3 align="center"><samp>░▒ 开源贡献 ▒░</samp></h3>
 
-**[Univer](https://github.com/dream-num/univer) 维护者** — 基于开源核心、面向人与 AI Agent 的 Office SDK
+**[Univer](https://github.com/dream-num/univer) 维护者** — 面向人与 AI Agent 的 Office SDK，基于开源核心构建
 
-- 涵盖电子表格、文档、演示文稿、关系表格、画布和 PDF
-- 被多家大型企业采用，用于构建定制化办公解决方案
-- 参与 UI 性能优化、可访问性、社区建设和开发者体验提升
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=Univer)](https://github.com/dream-num/univer/stargazers)
+
+- 支持电子表格、文档、演示文稿、关系表格、画布和 PDF
+- 企业可以用它构建自己的办公应用
+- 主要参与界面性能优化、无障碍支持、开发者体验和社区维护
 
 **[Element UI](https://github.com/elemefe/element) 前维护者** — Vue 2 UI 组件库
 
-- 维护被广泛使用的 Vue 2 UI 框架
-- 专注于组件质量、可访问性和生态系统建设
+- 曾参与这套被广泛使用的 Vue 2 组件库的维护
+- 打磨组件质量、完善无障碍支持，也参与生态建设
 
-#### 其他项目
+#### <samp>自己做的小东西</samp>
 
 | 项目 | 简介 |
 | --- | --- |
-| [verso](https://github.com/jikkai/verso) | 面向 JavaScript 工作区和 HarmonyOS 应用的发布工具，可同步更新 Cargo 包版本。 |
-| [oxlint-config](https://github.com/jikkai/oxlint-config) | 一套约定优于配置的 Oxlint 预设与 Oxc 初始化工具。 |
-| [uptime-monitor](https://github.com/jikkai/uptime-monitor) | 原生 macOS 菜单栏应用，用于监控网站健康状态和 90 天可用性历史。 |
-| [mdx](https://github.com/jikkai/mdx) | 支持 Vite 与 Next 适配器的原生 MDX 内容编译器。 |
-| [doctrine](https://github.com/jikkai/doctrine) | 将 MDX 目录构建为静态 React 文档站点的工具。 |
+| [`verso`](https://github.com/jikkai/verso) | 统一处理 JavaScript 工作区和 HarmonyOS 应用的版本与变更日志，也能同步 Cargo 包版本。 |
+| [`oxlint-config`](https://github.com/jikkai/oxlint-config)<br />[![npm @amamo/oxlint-config](https://img.shields.io/npm/v/%40amamo%2Foxlint-config?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/oxlint-config) | 可组合的 Oxlint 规则预设，配有 Oxc 初始化工具和中英双语规则浏览器。 |
+| [`mdx`](https://github.com/jikkai/mdx)<br />[![npm @amamo/mdx](https://img.shields.io/npm/v/%40amamo%2Fmdx?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/mdx) | 用 Rust 写的 MDX 编译器，支持内容类型生成、数据校验，以及 Vite / Next.js 接入。 |
+| [`doctrine`](https://github.com/jikkai/doctrine)<br />[![npm @amamo/doctrine](https://img.shields.io/npm/v/%40amamo%2Fdoctrine?style=flat-square&label=npm)](https://www.npmjs.com/package/@amamo/doctrine) | 用 MDX 写 React 文档站，内置页面预渲染、Pagefind 全文搜索和多语言导航。 |
+| [`ai-tab`](https://github.com/jikkai/ai-tab) | 用自己的 AI 服务整理 Chrome 标签页和书签，支持先预览、再调整，也能撤销。 |
+| [`switch-weread`](https://github.com/jikkai/switch-weread) | 把微信读书搬到 Nintendo Switch 上的非官方原生客户端，基于 C++ / SDL2，仍处于技术预览阶段。 |
+| [`uptime-monitor`](https://github.com/jikkai/uptime-monitor) | 常驻 macOS 菜单栏的网站监控小工具，在本机保留最近 90 天的可用性记录。 |
+| [`sync-gitee`](https://github.com/jikkai/sync-gitee) | 把 GitHub 仓库的指定分支和标签同步到 Gitee 的 GitHub Action。 |
 
-<h3 align="center"><samp>░▒ 驱动力 ▒░</samp></h3>
+<details>
+<summary>看看 AI Tab 的界面</summary>
+<br />
+<p align="center">
+  <a href="https://github.com/jikkai/ai-tab">
+    <img src="https://raw.githubusercontent.com/jikkai/ai-tab/main/docs/images/preview.png" alt="AI Tab 在 Chrome 中预览标签页分组建议" width="320" />
+  </a>
+</p>
+</details>
 
-- 构建**开发者工具**和**生产力软件**，赋能创作者
-- 融合**优雅架构**与**愉悦体验**，创造无缝的产品
-- 为**开源社区**做贡献，帮助全球开发者
-- 探索 **Web 技术**与**创意表达**的交汇点
+<h3 align="center"><samp>░▒ 我在意的事 ▒░</samp></h3>
+
+- 做能帮到开发者和创作者的**工具与效率软件**
+- 在**架构设计**和**使用体验**之间找到舒服的平衡
+- 参与**开源社区**，和大家一起解决实际问题
+- 尝试把 **Web 技术**用在有趣的**创作**里
 
 <h3 align="center"><samp>░▒ 代码之外 ▒░</samp></h3>
 
-GITADORA Drummania 玩家 - 金ネ💛
+<pre align="center">GITADORA Drummania 玩家
+金ネ 💛</pre>
 
 <h3 align="center"><samp>░▒ 联系方式 ▒░</samp></h3>
 
-欢迎通过上述任何平台与我联系，或访问我的[博客](https://asaki.me)阅读技术文章和软件开发思考。
+可以通过上面的链接找到我。技术文章、折腾记录和日常碎碎念，都放在[博客](https://asaki.me)里。
