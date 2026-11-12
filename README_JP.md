@@ -66,7 +66,9 @@
 
 <h3 align="center"><samp>░▒ オープンソース貢献 ▒░</samp></h3>
 
-#### [Univer](https://github.com/dream-num/univer) [![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars)](https://github.com/dream-num/univer/stargazers)
+#### [Univer](https://github.com/dream-num/univer)
+
+[![Univer GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/dream-num/univer/stargazers)
 
 **メンテナー** — オープンソースのコアを基盤とする、人と AI エージェントのための Office SDK
 
@@ -74,7 +76,9 @@
 - 大手企業にカスタムオフィスソリューション構築のために採用
 - UI パフォーマンス、アクセシビリティ、コミュニティエンゲージメント、開発者体験の向上に貢献
 
-#### [Element UI](https://github.com/elemefe/element) [![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars)](https://github.com/elemefe/element/stargazers)
+#### [Element UI](https://github.com/elemefe/element)
+
+[![Element UI GitHub stars](https://img.shields.io/github/stars/elemefe/element?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/elemefe/element/stargazers)
 
 **元メンテナー** — Vue 2 向けの UI コンポーネントライブラリ
 
